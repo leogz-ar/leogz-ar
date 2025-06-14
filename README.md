@@ -1,22 +1,22 @@
 # Hello there!!! 👋
-# My name´s Leandro (WoozaK)
+# I'm Leandro (aka WoozaK)
 
-🎯 Apasionado por la **ciberseguridad** y especializado en **auditoría de Smart Contracts**.
+🎯 Passionate about **cybersecurity**, specialized in **Smart Contract Auditing**.
 
-🛡️ Me dedico a identificar, analizar y mitigar vulnerabilidades en contratos inteligentes escritos en Solidity, con foco en la seguridad Web3 y DeFi.
+🛡️ I focus on identifying, analyzing, and mitigating vulnerabilities in Solidity smart contracts, with a strong emphasis on **Web3** and **DeFi security**.
 
-🔍 Trabajo con:
+🔍 I work with:
 - Solidity, Hardhat, Foundry
 - Ethers.js, Web3.js
-- Python y Bash para automatización de análisis
-- Linux (Kali, Parrot) para pentesting
-- Auditorías manuales y herramientas como Slither, Mythril, Echidna, etc.
+- Python and Bash for analysis automation
+- Linux (Kali, Parrot) for pentesting
+- Manual auditing and tools like Slither, Mythril, Echidna, etc.
 
-📂 En este perfil vas a encontrar:
-- 🚨 Ejercicios prácticos de auditoría de contratos inteligentes
-- 💣 Exploits demostrativos de vulnerabilidades comunes (Reentrancy, Integer Overflow, etc.)
-- 🔐 Scripts para automatizar pruebas y análisis
-- 🌐 Frontends integrados para visualización de contratos
-- 📚 Análisis técnicos y walkthroughs de CTFs o retos estilo Ethernaut
+📂 In this profile you’ll find:
+- 🚨 Practical exercises in smart contract auditing
+- 💣 Demonstrations of common vulnerabilities (Reentrancy, Integer Overflow, etc.)
+- 🔐 Scripts to automate testing and analysis
+- 🌐 Integrated frontends to visualize and interact with contracts
+- 📚 Technical writeups and walkthroughs of CTFs and challenges like Ethernaut
 
-🔗 Contacto: [LinkedIn](#) | [Twitter](#) | woozak@proton.me
+🔗 Contact: [LinkedIn]([#](https://www.linkedin.com/in/leandro-g%C3%B3mez/))
