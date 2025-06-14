@@ -19,4 +19,4 @@
 - 🌐 Integrated frontends to visualize and interact with contracts
 - 📚 Technical writeups and walkthroughs of CTFs and challenges like Ethernaut
 
-🔗 Contact: [LinkedIn]([#](https://www.linkedin.com/in/leandro-g%C3%B3mez/))
+🔗 Contact: [LinkedIn](https://www.linkedin.com/in/leandro-g%C3%B3mez)
